@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/Rafael-HQ">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&repeat=false&center=true&vCenter=true&width=435&lines=Rafael+Henrique" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/Rafael-HQ">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20.Net%20e%20React.;3%20anos%20de%20Experiencia;Apaixonado%20por%20tecnologia.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/qh-rafael"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/zfalls" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
