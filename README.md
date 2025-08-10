@@ -51,8 +51,7 @@
 <p>
   Tenho 20 anos e sou apaixonado por tecnologia e desenvolvimento de software.  
   Gosto de programar em C#, ASP.NET e JavaScript, sempre buscando aprender e melhorar.  
-  No meu tempo livre, meu hobbie é jogar videogame e tirar fotos, capturando momentos únicos.  
-  Acredito que a combinação de diversão e criatividade ajuda muito no meu crescimento pessoal e profissional.
+  No meu tempo livre, meu hobbie é jogar videogame e tirar fotos, capturando momentos únicos.
 </p>
 </details>
 
