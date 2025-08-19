@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Rafael-HQ">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20.Net%20e%20React.;3%20anos%20de%20Experiencia;Apaixonado%20por%20tecnologia.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20.Net%20e%20React.;2%20anos%20de%20Experiencia;Apaixonado%20por%20tecnologia.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
