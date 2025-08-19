@@ -58,15 +58,17 @@
 <details open> 
   <summary>📘 Meus Principais Projetos Open Source</summary>
 
-  <p align="left">
-    <a href="https://github.com/Rafael-HQ/GameStage">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-HQ&repo=GameStage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GameStage">
-    </a>
-    <a href="https://github.com/Rafael-HQ/RickAndMorty">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-HQ&repo=RickAndMorty&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RickAndMorty">
-    </a>
-  </p>
-
+<p align="left">
+  <a href="https://github.com/Rafael-HQ/GameStage">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-HQ&repo=GameStage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GameStage">
+  </a>
+  <a href="https://github.com/Rafael-HQ/RickAndMorty">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-HQ&repo=RickAndMorty&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RickAndMorty">
+  </a>
+  <a href="https://github.com/Rafael-HQ/Pass-Generator">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rafael-HQ&repo=Pass-Generator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="PassGenerator">
+  </a>
+</p>
   <a href="https://github.com/Rafael-HQ?tab=repositories&sort=stargazers">
     <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Todos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
